@@ -1,0 +1,32 @@
+(Nom et Prénom);[litlespacer];
+(Votre adresse);[litlespacer];
+(votre code postal + ville);[litlespacer];
+(N° de tel);[litlespacer];
+[spacer];
+(Destinataire);[litlespacer];
+(Lieux de l'entreprise);[litlespacer];
+(Code postal et ville);[litlespacer];
+Faite à (ville), le (date);[litlespacer];
+[spacer];
+PJ : Curriculum Vitae;[litlespacer];
+Objet : Candidature au poste (le poste);[litlespacer];
+[spacer];
+(Madame/Monsieurs),;[litlespacer];
+Etant actuellement à la recherche d’une alternance, je me permets de vous proposer ma candidature au poste de développeur.;[litlespacer];
+En effet mon profil correspond à la description recherchée sur l’offre d’emploi que j’ai trouver grâce (Source de l'annonce).;[litlespacer];
+;[litlespacer];(Si vous ne possédez pas d'expérience professionnel);[litlespacer];
+Ma formation en (nom de la formation) m’a permis d’acquérir de nombreuse compétence parmi celle que vous recherchez.;[litlespacer];Je possède tous les atouts qui me permettront de réussir dans le rôle que vous voudrez bien me confier.;[litlespacer];
+Motivation et rigueur sont les maîtres mots de mon comportement professionnel.;[litlespacer];
+[spacer];
+
+(Si vous possédez une expérience professionnel);[litlespacer];
+Mon expérience en tant que (emploi) m'a permis d'acquérir toutes les connaissances n'cessaires à la bonne éxécution des tâches du poste a pourvoir.;[litlespacer];
+Régulièrement confronté aux aléas du métier, je suis capable de répondre aux imprévus en toutes autonomie.
+[spacer];
+Intégrer votre entreprise représente pour moi un réel enjeu d’avenir dans lequel mon travail et cela me permet de renforcer mes compétences sur Unity ce propose votre offre.;[litlespacer];
+[spacer];
+Restant à votre disposition pour toute information complémentaire, je suis disponible pour vous rencontrer lors d’un entretien à votre convenance;[litlespacer];
+[spacer];
+Veuillez agréer. (Madame Monsieurs), l’expression de mes sincère salutation.;[litlespacer];
+[spacer];
+MAGNE Jeremy
